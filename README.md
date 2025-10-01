@@ -1,2 +1,2 @@
 # HelpToolBox
-Helpfule functions for different tasks
+Helpful functions for different tasks
